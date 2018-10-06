@@ -1,0 +1,43 @@
+.header {
+	border: black 1px solid;
+	background-color: #c0c0e5;
+	height: 150px;
+}
+
+.nav-bar {
+	border: black 1px solid;
+	background-color: #e3bdcc;
+	float: left;
+	width: 28%;
+}
+
+.clear-both {
+	clear: both;
+}
+
+.main-content {
+	border: black 1px solid;
+	background-color: #93e193;
+	float: right;
+	width: 70%;
+}
+
+.product {
+	border: black 1px solid;
+	width: 29%;
+	float: left;
+	padding: 7px;
+	margin: 4px;
+}
+
+.img-product {
+	border: black 1px solid;
+	width: 200px;
+	border-radius: 10px;
+}
+
+.footer {
+	border: black 1px solid;
+	background-color: #f5f5a6;
+	height: 120px;
+}
